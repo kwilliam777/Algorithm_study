@@ -5,7 +5,7 @@
 
 ### 👋 Nicknames
   - 김태현 : [ffdev](https://github.com/ffolabear)
-  - 
+  - 김응진 : [kwill](https://github.com/kwilliam777)
   - 
   -
 
